@@ -1,3 +1,8 @@
+"""
+i would like to thank the Academy, Sentdex, my last
+two brain cells, trial, and error for this code and
+all of its modifications.
+"""
 import pygame
 import time
 import random
